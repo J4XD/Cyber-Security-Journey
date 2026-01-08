@@ -6,11 +6,27 @@ My daily progress from Noob to Pro.
 **Start Date:** 07 Jan 2026
 **Status:** Beginner (Noob)
 
-### 🎯 My Goals:
-1. Learn Linux Basics
-2. Understand Networking (IP, DNS, OSI)
-3. Learn Python for Security
-4. Solve CTF Challenges
+### 🎯 My Roadmap (From Basic to Advanced)
+
+**Phase 1: Linux Mastery 🐧** (Current Focus)
+- [ ] **Basic:** Navigation, File Management, CLI commands.
+- [ ] **Advanced:** File Permissions, User Management (`sudo`), Bash Scripting.
+- *Goal: Operate any Linux server comfortably using only the terminal.*
+
+**Phase 2: Networking Deep Dive 🌐**
+- [ ] **Basic:** IP, MAC, DNS, Ports & Protocols.
+- [ ] **Advanced:** OSI Model, Subnetting, Packet Analysis (Wireshark), VPNs.
+- *Goal: Understand exactly how data flows across the internet to find vulnerabilities.*
+
+**Phase 3: Python for Security 🐍**
+- [ ] **Basic:** Syntax, Loops, Functions, Error Handling.
+- [ ] **Advanced:** Socket Programming, Writing custom tools (Port Scanners, Hash Crackers).
+- *Goal: Stop using other people's tools and start building my own.*
+
+**Phase 4: Web Hacking & CTFs 🚩**
+- [ ] **Basic:** HTTP Basics, Google Dorking.
+- [ ] **Advanced:** OWASP Top 10 (SQL Injection, XSS), Burp Suite, Metasploit.
+- *Goal: legally hack and secure applications.*
 
 ### 📅 Day 1 Update:
 Today, I set up my GitHub repository.
