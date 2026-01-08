@@ -38,3 +38,17 @@ Today, I started learning the Linux Command Line Interface (CLI). Unlike Windows
 
 ### 🧠 Why is this important?
 Most hacking tools and servers run on Linux. Mastering the terminal is the first step to becoming a security professional.
+---
+### 🛠️ How to Practice Online (No Installation Needed)
+
+If you don't have a high-end PC or Linux installed yet, don't worry! You can practice these commands directly in your web browser.
+
+**Resource:** [JSLinux by Fabrice Bellard](https://bellard.org/jslinux/)
+
+**Steps to use:**
+1. Open the link above.
+2. Click on **"Alpine Linux"** (Console).
+3. Wait for the black terminal screen to load.
+4. Start typing commands like `ls`, `pwd`, or `mkdir hacker_folder` to practice!
+
+**Note:** This runs safely inside your browser. No data is saved on your computer.
