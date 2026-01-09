@@ -68,3 +68,29 @@ If you don't have a high-end PC or Linux installed yet, don't worry! You can pra
 4. Start typing commands like `ls`, `pwd`, or `mkdir hacker_folder` to practice!
 
 **Note:** This runs safely inside your browser. No data is saved on your computer.
+
+# 📄 Working with Files in Linux (Day 3)
+
+**Date:** 09 Jan 2026
+
+Today, I learned how to manage files using the Linux terminal. In Windows, we use a mouse to copy, paste, or delete files, but in Linux, we use commands for everything.
+
+### 🛠️ Key Commands I Learned:
+
+| Command | Action | Example Code |
+| :--- | :--- | :--- |
+| `touch` | Creates a new empty file instantly. | `touch secret.txt` |
+| `cat` | displaying the file content on the screen. | `cat secret.txt` |
+| `cp` | Copies a file (Backup). | `cp secret.txt copy_secret.txt` |
+| `mv` | Moves a file OR Renames it. | `mv secret.txt hidden.txt` |
+| `rm` | **Deletes** a file permanently. | `rm useless_file.txt` |
+
+### ⚠️ Important Lesson:
+I learned that the `rm` command is dangerous. Unlike Windows, Linux **does not have a Recycle Bin** for the terminal. If I delete a file using `rm`, it is gone forever. I need to be careful!
+
+### 💻 Practice:
+I tried these commands in an online terminal:
+1. Created a file using `touch`.
+2. Added some text and read it using `cat`.
+3. Renamed the file using `mv`.
+4. Deleted the file using `rm` to clear my tracks.
