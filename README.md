@@ -123,3 +123,34 @@ I checked file permissions using `ls -l` and tried changing them:
 2. Checked permissions: `ls -l virus.py` (It was not executable).
 3. Made it executable: `chmod +x virus.py`
 4. Now the color of the file changed to **Green** in the terminal!
+
+# 🔎 Finding Data with Grep & Pipes (Day 5)
+
+**Date:** 11 Jan 2026
+
+Today, I learned how to search for specific text inside huge files. As a hacker, I will often need to find specific information (like passwords or errors) inside large log files.
+
+### 🛠️ The Tools:
+
+| Symbol/Command | Name | usage |
+| :--- | :--- | :--- |
+| `grep "text"` | Search | Finds and prints lines matching the text. |
+| `|` | Pipe | Takes the output of the first command and gives it to the next command. |
+| `head` | Head | Shows only the first 10 lines of a file. |
+| `tail` | Tail | Shows only the last 10 lines of a file. |
+
+### ⚡ Practical Examples:
+
+**1. Using Grep alone:**
+If I want to find the word "Error" inside a file named `server.log`:
+`grep "Error" server.log`
+
+**2. The Power of Piping (`|`):**
+Combinig commands makes them powerful.
+`cat huge_wordlist.txt | grep "password123"`
+*(This reads the file and immediately filters out only the line containing "password123")*
+
+### 🧠 Why is this useful?
+In CTF challenges, flags are often hidden in big text files. Instead of reading the whole file, I can just run:
+`cat file.txt | grep "flag{"`
+This will instantly show me the flag.
