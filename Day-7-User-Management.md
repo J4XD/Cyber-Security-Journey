@@ -29,8 +29,11 @@ whoami
 # Output: root (or your username)
 ```
 **Step 2: Create a new user named "hacker"**
-
-Step 3: Set a password for the new user
+```
+sudo useradd -m hacker
+# Note: '-m' creates a home directory for the user
+```
+***Step 3: Set a password for the new user***
 ```bash
 passwd hacker
 ```
