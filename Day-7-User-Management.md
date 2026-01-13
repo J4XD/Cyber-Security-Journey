@@ -27,3 +27,25 @@ I practiced creating a new user and switching to it.
 ```bash
 whoami
 # Output: root (or your username)
+
+Step 2: Create a new user named "hacker"
+Step 3: Set a password for the new user
+
+Bash
+
+passwd hacker
+
+Step 4: Switch to the new user
+
+Bash
+
+su hacker
+Now, when I type whoami, it says "hacker". I have successfully changed my identity!
+
+Step 5: Return to original user
+
+Bash
+
+exit
+# (I typed a new password when prompted)
+
