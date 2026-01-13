@@ -23,6 +23,7 @@ Click on the topics below to see my notes:
 | **Day 4** | Permissions (chmod) | [Read Notes 📄](Day-4-File-Permissions.md) | ✅ Done |
 | **Day 5** | Searching Data (grep) | [Read Notes 📄](Day-5-Data-Search.md) | ✅ Done |
 | **Day 6** | Process Management (ps, kill) | [Read Notes 📄](Day-6-Process-Management.md) | ✅ Done |
+| **Day 7** | User Management (sudo, root) | [Read Notes 📄](Day-7-User-Management.md) | ✅ Done |
 
 ---
 
