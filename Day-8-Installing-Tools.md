@@ -40,6 +40,6 @@ Output: It showed a cool logo of my Linux OS along with RAM and CPU details.
 
 **Step 4: Cloning a Tool from GitHub I also learned how to download tools that are not in the APT store using Git.**
 ```bash
-git clone [https://github.com/j4xd/Cyber-Security-Journey.git](https://github.com/j4xd/Cyber-Security-Journey.git)
+git clone https://github.com/j4xd/Cyber-Security-Journey.git
 ```
 # This downloaded my own repository to my local machine!
