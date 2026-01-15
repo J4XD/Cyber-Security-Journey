@@ -25,6 +25,7 @@ Click on the topics below to see my notes:
 | **Day 6** | Process Management (ps, kill) | [Read Notes 📄](Day-6-Process-Management.md) | ✅ Done |
 | **Day 7** | User Management (sudo, root) | [Read Notes 📄](Day-7-User-Management.md) | ✅ Done |
 | **Day 8** | Installing Tools (apt, git) | [Read Notes 📄](Day-8-Installing-Tools.md) | ✅ Done |
+| **Day 9** | Networking Basics (ip, ping) | [Read Notes 📄](Day-9-Network-Basics.md) | ✅ Done |
 
 ---
 
