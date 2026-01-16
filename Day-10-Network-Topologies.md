@@ -2,6 +2,8 @@
 
 **Date:** 16 Jan 2026
 
+> **🔔 Note:** Yesterday (Day 9), we used commands like `ip` and `ping` to check connectivity. Today, we start **Phase 2 (Core Networking)** to understand *HOW* these connections are actually built physically.
+
 **Phase 2 Start:** Today, I started learning Networking basics. The first step is understanding how computers are connected physically and logically.
 
 ### 🌍 1. Types of Networks (By Size)
