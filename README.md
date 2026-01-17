@@ -27,6 +27,7 @@ Click on the topics below to see my notes:
 | **Day 8** | Installing Tools (apt, git) | [Read Notes 📄](Day-8-Installing-Tools.md) | ✅ Done |
 | **Day 9** | Networking Basics (ip, ping) | [Read Notes 📄](Day-9-Network-Basics.md) | ✅ Done |
 | **Day 10** | Network Topologies (LAN/WAN, Star/Mesh) | [Read Notes 📄](Day-10-Network-Topologies.md) | ✅ Done |
+| **Day 11** | The OSI Model (7 Layers Explained) | [Read Notes 📄](Day-11-OSI-Model.md) | ✅ Done |
 
 ---
 
