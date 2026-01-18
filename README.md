@@ -14,7 +14,7 @@ My goal is not just to learn tools, but to understand how computers work, connec
 ### 📂 Daily Learning Log (Index)
 Click on the topics below to see my notes:
 
-#### 🐧 Phase 1: Linux Mastery (Current Focus)
+#### 🐧 Phase 1: Linux Mastery (✅ Completed)
 | Day | Topic | Link | Status |
 | :--- | :--- | :--- | :--- |
 | **Day 1** | Introduction & Setup | [Read Notes 📄](Day-1-Intro.md) | ✅ Done |
@@ -25,16 +25,21 @@ Click on the topics below to see my notes:
 | **Day 6** | Process Management (ps, kill) | [Read Notes 📄](Day-6-Process-Management.md) | ✅ Done |
 | **Day 7** | User Management (sudo, root) | [Read Notes 📄](Day-7-User-Management.md) | ✅ Done |
 | **Day 8** | Installing Tools (apt, git) | [Read Notes 📄](Day-8-Installing-Tools.md) | ✅ Done |
-| **Day 9** | Networking Basics (ip, ping) | [Read Notes 📄](Day-9-Network-Basics.md) | ✅ Done |
-| **Day 10** | Network Topologies (LAN/WAN, Star/Mesh) | [Read Notes 📄](Day-10-Network-Topologies.md) | ✅ Done |
-| **Day 11** | The OSI Model (7 Layers Explained) | [Read Notes 📄](Day-11-OSI-Model.md) | ✅ Done |
+| **Day 9** | Connectivity Commands (ip, ping) | [Read Notes 📄](Day-9-Network-Basics.md) | ✅ Done |
+
+#### 🌐 Phase 2: Networking (🚀 Current Focus)
+| Day | Topic | Link | Status |
+| :--- | :--- | :--- | :--- |
+| **Day 10** | Network Topologies (LAN/WAN) | [Read Notes 📄](Day-10-Network-Topologies.md) | ✅ Done |
+| **Day 11** | The OSI Model (7 Layers) | [Read Notes 📄](Day-11-OSI-Model.md) | ✅ Done |
+| **Day 12** | Physical & Data Link (MAC & Switch) | [Read Notes 📄](Day-12-Physical-DataLink.md) | ✅ Done |
 
 ---
 
 ### 🗺️ My Roadmap
 Here is the plan I am following:
 
-- [ ] **Phase 1: Linux Basics** (Learning CLI, Permissions, Scripting)
+- [x] **Phase 1: Linux Basics** (Completed)
 - [ ] **Phase 2: Networking** (IP, DNS, OSI Model, Wireshark)
 - [ ] **Phase 3: Python for Security** (Automation & Tools)
 - [ ] **Phase 4: Web Hacking & CTFs** (Practical Hacking)
