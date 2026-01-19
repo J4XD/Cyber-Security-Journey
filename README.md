@@ -33,7 +33,7 @@ Click on the topics below to see my notes:
 | **Day 10** | Network Topologies (LAN/WAN) | [Read Notes 📄](Day-10-Network-Topologies.md) | ✅ Done |
 | **Day 11** | The OSI Model (7 Layers) | [Read Notes 📄](Day-11-OSI-Model.md) | ✅ Done |
 | **Day 12** | Physical & Data Link (MAC & Switch) | [Read Notes 📄](Day-12-Physical-DataLink.md) | ✅ Done |
-
+| **Day 13** | IP Addressing (IPv4, Public/Private) | [Read Notes 📄](Day-13-IP-Addressing.md) | ✅ Done |
 ---
 
 ### 🗺️ My Roadmap
