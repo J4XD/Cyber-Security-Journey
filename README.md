@@ -34,6 +34,7 @@ Click on the topics below to see my notes:
 | **Day 11** | The OSI Model (7 Layers) | [Read Notes 📄](Day-11-OSI-Model.md) | ✅ Done |
 | **Day 12** | Physical & Data Link (MAC & Switch) | [Read Notes 📄](Day-12-Physical-DataLink.md) | ✅ Done |
 | **Day 13** | IP Addressing (IPv4, Public/Private) | [Read Notes 📄](Day-13-IP-Addressing.md) | ✅ Done |
+| **Day 14** | Subnetting & CIDR (The /24 Logic) | [Read Notes 📄](Day-14-Subnetting.md) | ✅ Done |
 ---
 
 ### 🗺️ My Roadmap
