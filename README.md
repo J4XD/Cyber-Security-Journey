@@ -27,7 +27,7 @@ Click on the topics below to see my notes:
 | **Day 8** | Installing Tools (apt, git) | [Read Notes 📄](Day-8-Installing-Tools.md) | ✅ Done |
 | **Day 9** | Connectivity Commands (ip, ping) | [Read Notes 📄](Day-9-Network-Basics.md) | ✅ Done |
 
-#### 🌐 Phase 2: Networking (🚀 Current Focus)
+#### 🌐 Phase 2: Networking (✅ Completed)
 | Day | Topic | Link | Status |
 | :--- | :--- | :--- | :--- |
 | **Day 10** | Network Topologies (LAN/WAN) | [Read Notes 📄](Day-10-Network-Topologies.md) | ✅ Done |
@@ -35,13 +35,14 @@ Click on the topics below to see my notes:
 | **Day 12** | Physical & Data Link (MAC & Switch) | [Read Notes 📄](Day-12-Physical-DataLink.md) | ✅ Done |
 | **Day 13** | IP Addressing (IPv4, Public/Private) | [Read Notes 📄](Day-13-IP-Addressing.md) | ✅ Done |
 | **Day 14** | Subnetting & CIDR (The /24 Logic) | [Read Notes 📄](Day-14-Subnetting.md) | ✅ Done |
+| **Day 15** | Protocols & Ports (TCP/UDP) | [Read Notes 📄](Day-15-Protocols-Ports.md) | ✅ Done |
 ---
 
 ### 🗺️ My Roadmap
 Here is the plan I am following:
 
 - [x] **Phase 1: Linux Basics** (Completed)
-- [ ] **Phase 2: Networking** (IP, DNS, OSI Model, Wireshark)
+- [x] **Phase 2: Networking** (IP, DNS, OSI Model, Wireshark)
 - [ ] **Phase 3: Python for Security** (Automation & Tools)
 - [ ] **Phase 4: Web Hacking & CTFs** (Practical Hacking)
 
