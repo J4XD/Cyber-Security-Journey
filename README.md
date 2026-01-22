@@ -36,15 +36,21 @@ Click on the topics below to see my notes:
 | **Day 13** | IP Addressing (IPv4, Public/Private) | [Read Notes 📄](Day-13-IP-Addressing.md) | ✅ Done |
 | **Day 14** | Subnetting & CIDR (The /24 Logic) | [Read Notes 📄](Day-14-Subnetting.md) | ✅ Done |
 | **Day 15** | Protocols & Ports (TCP/UDP) | [Read Notes 📄](Day-15-Protocols-Ports.md) | ✅ Done |
+
+#### 🐍 Phase 3: Python for Security (🚀 Current Focus)
+| Day | Topic | Link | Status |
+| :--- | :--- | :--- | :--- |
+| **Day 16** | Python Intro & Variables | [Read Notes 📄](Day-16-Python-Intro.md) | ✅ Done |
+
 ---
 
 ### 🗺️ My Roadmap
 Here is the plan I am following:
 
 - [x] **Phase 1: Linux Basics** (Completed)
-- [x] **Phase 2: Networking** (IP, DNS, OSI Model, Wireshark)
-- [ ] **Phase 3: Python for Security** (Automation & Tools)
-- [ ] **Phase 4: Web Hacking & CTFs** (Practical Hacking)
+- [x] **Phase 2: Networking** (Completed)
+- [ ] **Phase 3: Python for Security** (Currently Learning...)
+- [ ] **Phase 4: Web Hacking & CTFs** (Upcoming)
 
 ---
 ### 🔗 Connect
