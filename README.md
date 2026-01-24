@@ -42,7 +42,7 @@ Click on the topics below to see my notes:
 | :--- | :--- | :--- | :--- |
 | **Day 16** | Python Intro & Variables | [Read Notes 📄](Day-16-Python-Intro.md) | ✅ Done |
 | **Day 17** | Logic & Conditionals (If/Else) | [Read Notes 📄](Day-17-Python-Logic.md) | ✅ Done |
-
+| **Day 18** | Loops (For & While) | [Read Notes 📄](Day-18-Python-Loops.md) | ✅ Done |
 ---
 
 ### 🗺️ My Roadmap
