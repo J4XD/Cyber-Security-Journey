@@ -45,6 +45,7 @@ Click on the topics below to see my notes:
 | **Day 18** | Loops (For & While) | [Read Notes 📄](Day-18-Python-Loops.md) | ✅ Done |
 | **Day 19** | Functions (def & return) | [Read Notes 📄](Day-19-Python-Functions.md) | ✅ Done |
 | **Day 20** | Modules (os, sys, import) | [Read Notes 📄](Day-20-Python-Modules.md) | ✅ Done |
+| **Day 21** | Sockets (socket, connect) | [Read Notes 📄](Day-21-Python-Sockets.md) | ✅ Done |
 ---
 
 ### 🗺️ My Roadmap
