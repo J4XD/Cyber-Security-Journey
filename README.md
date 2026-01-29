@@ -47,6 +47,7 @@ Click on the topics below to see my notes:
 | **Day 20** | Modules (os, sys, import) | [Read Notes 📄](Day-20-Python-Modules.md) | ✅ Done |
 | **Day 21** | Sockets (socket, connect) | [Read Notes 📄](Day-21-Python-Sockets.md) | ✅ Done |
 | **Day 22** | Project: Port Scanner | [Read Notes 📄](Day-22-Port-Scanner.md) | ✅ Done |
+| **Day 23** | Libraries & Requests (pip) | [Read Notes 📄](Day-23-PIP-Requests.md) | ✅ Done |
 ---
 
 ### 🗺️ My Roadmap
