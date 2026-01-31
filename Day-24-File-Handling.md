@@ -24,3 +24,52 @@ Now, we use the `with` keyword. It automatically closes the file, even if errors
 with open("passwords.txt", "r") as file:
     content = file.read()
     print(content)
+```
+🧪 Hands-on Lab: Reading a Wordlist
+I created a dummy password list and wrote a script to read it line by line.
+
+Step 1: Create a Dummy Wordlist
+Create a file named wordlist.txt in the same folder and add some text:
+```Plaintext
+admin
+123456
+password
+iloveyou
+root
+```
+Step 2: The Reader Script (read_files.py)
+```python
+print("--- WORDLIST READER ---")
+
+filename = "wordlist.txt"
+
+try:
+    # Open the file in 'Read' mode
+    with open(filename, "r") as f:
+        
+        # Read line by line
+        for line in f:
+            # .strip() removes the invisible "Enter" key (\n) at the end
+            password = line.strip()
+            
+            print(f"Testing Password: {password}")
+            
+            # Here we can add logic: 
+            # if password == "123456": login(password)
+
+except FileNotFoundError:
+    print("❌ Error: File not found! Please create 'wordlist.txt' first.")
+```
+Step 3: Writing Results (Logging)
+I also learned how to save data.
+```python
+result = "Found Admin Password: 123456"
+
+# 'a' mode appends data to the end
+with open("scan_results.txt", "a") as log_file:
+    log_file.write(result + "\n")
+
+print("✅ Log saved to scan_results.txt")
+```
+📝 Hacker's Note
+strip() is crucial: When Python reads a line, it also reads the "New Line" character (\n). If my password is admin, Python reads admin\n. This will cause login failure. Using .strip() cleans it to just admin.
