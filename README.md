@@ -49,6 +49,7 @@ Click on the topics below to see my notes:
 | **Day 22** | Project: Port Scanner | [Read Notes 📄](Day-22-Port-Scanner.md) | ✅ Done |
 | **Day 23** | Libraries & Requests (pip) | [Read Notes 📄](Day-23-PIP-Requests.md) | ✅ Done |
 | **Day 24** | File Handling (Read/Write) | [Read Notes 📄](Day-24-File-Handling.md) | ✅ Done |
+| **Day 25** | Error Handling (Try/Except) | [Read Notes 📄](Day-25-Error-Handling.md) | ✅ Done |
 
 ---
 
