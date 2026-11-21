@@ -106,5 +106,5 @@ except socket.error:
     print("\n❌ Server not responding.")
     sys.exit()
 ```
-Next Up: Tomorrow, we will build Phase 3's Second Project—"The Password Cracker". 🔐
-We will attempt to crack a Zip file or a Login password using Python (utilizing Wordlists and File Handling). 🚀
+Next Up: Phase 3 is complete! ✅ Next, **Phase 4: Web Hacking & CTFs** begins with [Day 26: HTTP Basics](Day-26-HTTP-Basics.md). 🌐
+(The "Password Cracker" project will come later as a Phase 3 bonus project. 🔐)

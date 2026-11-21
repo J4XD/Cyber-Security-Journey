@@ -68,7 +68,9 @@ except socket.error:
     sys.exit()
 ```
 🏃‍♂️ How I ran it:
-I tested it on Google (Scanning limited ports is legal for educational purposes, but never scan unauthorized networks!).
+I tested it on Google's DNS server (8.8.8.8).
+
+> ⚠️ **Correction (22 Nov 2026):** Earlier I wrote that scanning Google is legal for educational purposes. That was wrong. Scanning any server without the owner's permission is not okay. For practice, scan only `127.0.0.1` (my own machine), my own lab VMs, TryHackMe machines, or `scanme.nmap.org` (Nmap made this server for testing and allows light scans).
 ```python
 python3 scanner.py 8.8.8.8
 ```
