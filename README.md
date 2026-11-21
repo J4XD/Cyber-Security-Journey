@@ -9,6 +9,8 @@ I am documenting my entire journey from a complete beginner to a Cyber Security 
 I started this journey on **07 Jan 2026**.
 My goal is not just to learn tools, but to understand how computers work, connect, and how to secure them. I upload my daily learnings, notes, and lab practice here.
 
+🔁 **Comeback: 22 Nov 2026**: I took a break after Day 25. Now I am back and continuing from Phase 4.
+
 ---
 
 ### 📂 Daily Learning Log (Index)
@@ -37,7 +39,7 @@ Click on the topics below to see my notes:
 | **Day 14** | Subnetting & CIDR (The /24 Logic) | [Read Notes 📄](Day-14-Subnetting.md) | ✅ Done |
 | **Day 15** | Protocols & Ports (TCP/UDP) | [Read Notes 📄](Day-15-Protocols-Ports.md) | ✅ Done |
 
-#### 🐍 Phase 3: Python for Security (🚀 Current Focus)
+#### 🐍 Phase 3: Python for Security (✅ Completed)
 | Day | Topic | Link | Status |
 | :--- | :--- | :--- | :--- |
 | **Day 16** | Python Intro & Variables | [Read Notes 📄](Day-16-Python-Intro.md) | ✅ Done |
@@ -51,6 +53,11 @@ Click on the topics below to see my notes:
 | **Day 24** | File Handling (Read/Write) | [Read Notes 📄](Day-24-File-Handling.md) | ✅ Done |
 | **Day 25** | Error Handling (Try/Except) | [Read Notes 📄](Day-25-Error-Handling.md) | ✅ Done |
 
+#### 🕸️ Phase 4: Web Hacking & CTFs (🚀 Current Focus)
+| Day | Topic | Link | Status |
+| :--- | :--- | :--- | :--- |
+| **Day 26** | HTTP Basics (Request/Response) | [Read Notes 📄](Day-26-HTTP-Basics.md) | 🔄 In Progress |
+
 ---
 
 ### 🗺️ My Roadmap
@@ -58,8 +65,9 @@ Here is the plan I am following:
 
 - [x] **Phase 1: Linux Basics** (Completed)
 - [x] **Phase 2: Networking** (Completed)
-- [ ] **Phase 3: Python for Security** (Currently Learning...)
-- [ ] **Phase 4: Web Hacking & CTFs** (Upcoming)
+- [x] **Phase 3: Python for Security** (Completed)
+- [ ] **Phase 4: Web Hacking & CTFs** (Currently Learning...)
+- [ ] **Phase 5: Pentesting Methodology & eJPT Prep** (Upcoming)
 
 ---
 ### 🔗 Connect
