@@ -57,6 +57,7 @@ Click on the topics below to see my notes:
 | Day | Topic | Link | Status |
 | :--- | :--- | :--- | :--- |
 | **Day 26** | HTTP Basics (Request/Response) | [Read Notes 📄](Day-26-HTTP-Basics.md) | 🔄 In Progress |
+| **Day 27** | Burp Suite (Proxy & Intercept) | [Read Notes 📄](Day-27-Burp-Suite.md) | 🔄 In Progress |
 
 ---
 
